@@ -1,0 +1,20 @@
+/*
+Theme Name: Mii WP Theme
+Theme URI: https://huynhanhtien.com/mii-wptheme
+Author: tienv2i
+Author URI: https://huynhanhtien.com/
+Description: A Wordpress theme based on BootScore 5.3.3
+Version: 1.0.0
+Requires at least: 5.0
+Tested up to: 6.3.1
+Requires PHP: 7.4
+License: MIT License
+Text Domain: mii-wptheme
+Tags: featured-images, threaded-comments, translation-ready
+
+Mii WP Theme is a a Wordpress theme based on BootScore 5.3.3
+*/
+
+/* 
+All style editing is done via scss/_bscore_custom.scss
+*/
